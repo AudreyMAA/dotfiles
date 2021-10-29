@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marieanneaudrey@gmail.com
+	name = Audrey MarieAnne
